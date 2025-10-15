@@ -1,5 +1,5 @@
 # Main header
-Some discription !
+Some description !
 
 ## Sub-header
 Watching a youtube tutorial from freecodecamp
